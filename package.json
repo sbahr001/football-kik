@@ -1,0 +1,19 @@
+{
+  "name": "football-kik",
+  "version": "1.0.0",
+  "description": "A chat application in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbahr001/football-kik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbahr001/football-kik/issues"
+  },
+  "homepage": "https://github.com/sbahr001/football-kik#readme"
+}
